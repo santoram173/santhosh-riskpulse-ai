@@ -1,4 +1,4 @@
-#  Santhosh RiskPulse AI — Real-Time Fraud Detection System
+#  Santhosh RiskPulse AI  Real-Time Fraud Detection System
 
 An enterprise-grade fraud detection engine combining machine learning (Isolation Forest) with deterministic risk rules and explainable AI.
 
